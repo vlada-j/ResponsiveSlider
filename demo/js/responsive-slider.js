@@ -114,8 +114,4 @@
 		lastSlide: function(){},
 		afterLoad: function(){}
 	};
-<<<<<<< HEAD
 })(jQuery);
-=======
-})(jQuery);
->>>>>>> origin/master
